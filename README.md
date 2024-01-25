@@ -16,6 +16,7 @@ Eu sou Aldruin Bonfim de Lima Souza, um Desenvolvedor de Software baseado em Cam
 ## ⚡ Tecnologias
 
 * **Tecnologias:** 💻 C#, .NET Framework, .NET, ASP.NET, SQL Server, Entity Framework, Swagger, JWT, Fluent Validation, SOLID, DDD, Padrão Repository.
+## 📚 Certificações
 
 * **Inglês Avançado C1:** Certificado EF SET [![Certificado EF SET](https://img.shields.io/badge/EF%20SET-C1-%234CA6FF.svg?style=for-the-badge)](https://www.efset.org/cert/hv31vD)
 
