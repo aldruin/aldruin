@@ -1,6 +1,4 @@
-# 👋 Olá!
-
-Eu sou Aldruin, Desenvolvedor Back-End
+# 🤖 Opa, seja bem-vindo!
 
 * 🚀 Em transição de carreira para o mundo do desenvolvimento de software.
 * 💻 Apaixonado por programação e comprometido em alcançar a excelência técnica.
