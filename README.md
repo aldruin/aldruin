@@ -1,6 +1,6 @@
 # 👋 Olá!
 
-Eu sou Aldruin Bonfim de Lima Souza, um Desenvolvedor de Software baseado em Campo Mourão, Brasil.
+Eu sou Aldruin, Desenvolvedor Back-End
 
 * 🚀 Em transição de carreira para o mundo do desenvolvimento de software.
 * 💻 Apaixonado por programação e comprometido em alcançar a excelência técnica.
