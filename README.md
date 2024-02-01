@@ -16,7 +16,8 @@
 * **Tecnologias:** 💻 C#, .NET Framework, .NET, ASP.NET, SQL Server, Entity Framework, Swagger, JWT, Fluent Validation, SOLID, DDD, Padrão Repository.
 ## 📚 Certificações
 
-* **Inglês Avançado C1:** Certificado EF SET [![Certificado EF SET](https://img.shields.io/badge/EF%20SET-C1-%234CA6FF.svg?style=for-the-badge)](https://www.efset.org/cert/hv31vD)
+* **Inglês Avançado C1:**  [![Certificado EF SET](https://img.shields.io/badge/EF%20SET-C1-%234CA6FF.svg?style=for-the-badge)](https://www.efset.org/cert/hv31vD)
+* **Foundational C# with Microsoft:**  [![Certificado freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-Foundational%20C%23%20with%20Microsoft-%23FCC624?style=for-the-badge)](https://www.freecodecamp.org/certification/aldruin/foundational-c-sharp-with-microsoft)
 
 ## 📊 Estatísticas de Linguagens dos Repositórios
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldruin&layout=compact)](https://github.com/aldruin)
