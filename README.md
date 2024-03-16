@@ -1,6 +1,6 @@
 # 🤖 Opa, seja bem-vindo!
 
-* 🚀 Em transição de carreira.
+* 🚀 Desenvolvedor em fase inicial de carreira.
 * 💻 Apaixonado por programação.
 * 🌐 Atualmente imerso no estudo de tecnologias .NET.
 
