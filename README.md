@@ -1,8 +1,6 @@
 # 🤖 Opa, seja bem-vindo!
 
-* 🚀 Desenvolvedor em fase inicial de carreira.
-* 💻 Apaixonado por programação.
-* 🌐 Atualmente imerso no estudo de tecnologias .NET.
+* 💻 Sou um Desenvolvedor Back-end.
 
 ## 🔗 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aldruinn)
