@@ -7,4 +7,4 @@
 Sinta-se à vontade para entrar em contato! 🚀
 
 ## 📊 Estatísticas de Linguagens dos Repositórios
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldruin&layout=compact)](https://github.com/aldruin)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aldruin)](https://github.com/aldruin)
