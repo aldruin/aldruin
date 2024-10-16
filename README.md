@@ -3,7 +3,6 @@ I'm a passionate developer who enjoys solving problems and continuously improvin
 
 ## 🔗 Connect with me!
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aldruinn)
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aldruin)
 [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aldruinsouza@outlook.com)
 
 ## 🚀 Techs & Tools
