@@ -59,6 +59,3 @@ I'm Aldruin, a backend developer who enjoys solving problems and continuously im
     <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions">
   </a>
 </p>
-
-## 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aldruin&layout=compact)](https://github.com/aldruin)
