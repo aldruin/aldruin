@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou o Aldruin
 
-🎯 Desenvolvedor em formação, apaixonado por tecnologia e soluções práticas.  
-🎓 Estudante de Análise e Desenvolvimento de Sistemas - Unoeste  
-🔍 Buscando minha primeira oportunidade como Dev Back-end
+🎯 Desenvolvedor em formação, apaixonado por tecnologia e soluções  
+🎓 Estudante de Análise e Desenvolvimento de Sistemas - Unoeste
+🔍 Buscando minha primeira oportunidade como Dev
 
 ## 🚀 Tecnologias que estou estudando e utilizando
 
