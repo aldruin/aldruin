@@ -20,7 +20,7 @@ Tenho facilidade em aprender, sou comprometido e gosto de trabalhar em equipe.
 
 ## 📫 Fale comigo
 
-- 💼 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aldruinn) 
+- 💼 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aldruin-dev) 
 - ✉️ [![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:aldruinsouza@outlook.com)
 
 ---
